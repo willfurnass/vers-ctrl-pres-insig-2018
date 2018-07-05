@@ -6,7 +6,7 @@ the [Insigneo](https://insigneo.org) institute for in-silico medicine, Universit
 These slides can be **viewed online** at [http://learningpatterns.me/vers-ctrl-pres-insig-2018](http://learningpatterns.me/vers-ctrl-pres-insig-2018),
 which is an alias for [http://willfurnass.github.io/vers-ctrl-pres-insig-2018](http://willfurnass.github.io/vers-ctrl-pres-insig-2018).
 
-The content is written in [Markdown](https://www.markdownguide.org/)
+The content (see [content.md](content.md) is written in [Markdown](https://www.markdownguide.org/)
 and can be rendered/viewed as HTML slides (e.g. via the above links) thanks to the wonderful [Remark.js](https://remarkjs.com/) library.
 
 The (very simple) repository presented/developed during this tutorial 
