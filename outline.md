@@ -92,20 +92,20 @@ Version control information hidden in `.git` directory.
 ---
 ## Committing a change to the repository
 
-Add a new file to 'index' of files to track:
+Add a new file to **index** of files to track:
 
 ```
 $ git add pyhyd.py
 ```
 
-Create new revision of the project:
+Create new **revision** of the project:
 
 ```
 $ git commit -m "Created cross-sectional area function" 
 ```
 
 ---
-All tracked files are now as per the most recent project revision:
+All tracked files are now as per the most recent project **revision**:
 
 ```
 $ git status 
@@ -114,7 +114,7 @@ $ git status
 nothing to commit (working directory clean)
 ```
 
-Revision ID, author, date and comments stored in the log
+Revision ID, author, date and comments stored in the **log**:
 
 ```
 $ git log
