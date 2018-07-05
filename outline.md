@@ -109,14 +109,23 @@ All tracked files are now as per the most recent project revision:
 
 ```
 $ git status 
+
+# On branch master
+nothing to commit (working directory clean)
 ```
 
 Revision ID, author, date and comments stored in the log
 
 ```
 $ git log
-```
 
+commit a6d126974f16d8c520a40bb737df37118126c6ff
+Author : Will Furnass <will@thearete.co.uk>
+Date :
+ Tue Feb 26 19:57:15 2013 +0000
+Created cross−sectional area function
+
+```
 
 ---
 ## Making further changes (#1)
