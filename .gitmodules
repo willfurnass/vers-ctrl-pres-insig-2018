@@ -1,0 +1,3 @@
+[submodule "vers-ctrl-pres-2013-test-repo"]
+	path = vers-ctrl-pres-2013-test-repo
+	url = git@github.com:willfurnass/vers-ctrl-pres-2013-test-repo.git
